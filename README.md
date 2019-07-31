@@ -4,8 +4,9 @@ Using this library, you can easily construct a fuzzy controller with Arduino
 
 ###### FuzzyControl库简介
 FuzzyControl是我为了在Arduino中更方便地实现模糊控制而开发的Arduino库。不再需要用户自己编写模糊化、模糊推理、解模糊的过程，你只要添加变量的隶属度函数和控制规则就能直接计算出输出量。当你想实现电机转速控制、双轮自平衡车的角度控制时，都可以用FuzzyControl库轻松方便地构建一个双输入单输出模糊控制器。
-下面，我将首先介绍FuzzyControl库函数，然后以Arduino Uno配合带编码器的直流电机，演示如何使用FuzzyControl库构造一个模糊控制器，实现**电机的位置追踪控制**。
-
+下面，我将首先介绍FuzzyControl库函数。
+您可以进入我的博客查看以Arduino Uno配合带编码器的直流电机，演示如何使用FuzzyControl库构造一个模糊控制器，实现**电机的位置追踪控制**。
+博客地址：https://re-high.github.io/
 
 ###### FuzzyControl库函数
  **setRange**
