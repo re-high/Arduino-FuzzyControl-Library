@@ -1,0 +1,26 @@
+#######################################
+# Arduino 	FuzzyControl库 关键字
+# 梁悦 / https://re-high.github.io
+#######################################
+
+#######################################
+# 数据类型/Datatypes (KEYWORD1)
+#######################################
+
+FuzzyControl	KEYWORD1
+
+
+#######################################
+# 函数/Functions (KEYWORD2)
+#######################################
+
+setRange	KEYWORD2
+addmf	KEYWORD2
+setrulenum	KEYWORD2
+addrule	KEYWORD2
+caculate KEYWORD2
+
+#######################################
+#
+#######################################
+testKeyWord KEYWORD2
